@@ -1,15 +1,11 @@
-# vue-cli3-app
-
 ## Project setup
 ```
 npm install
 ```
-
 ### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
-
 ### Compiles and minifies for production
 ```
 npm run build
@@ -25,11 +21,6 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
-###2019 7 3  
 ### 指令
 vue --help 查看命令
 -V 版本号
